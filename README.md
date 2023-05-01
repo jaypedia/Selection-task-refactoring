@@ -3,20 +3,19 @@
 ## Table of Contents
 
 1. [프로젝트 소개](#1-프로젝트-소개)
-   1-1. [About this project](#1-1-about-this-project)
-   1-2. [진행 기간](#1-2-진행-기간)
-   1-3. [프로젝트 원본 저장소](#1-3-프로젝트-원본-저장소)
-
+   - 1-1. [About this project](#1-1-about-this-project)
+   - 1-2. [진행 기간](#1-2-진행-기간)
+   - 1-3. [프로젝트 원본 저장소](#1-3-프로젝트-원본-저장소)
 2. [Best Practice 선정 근거](#2-Best-Practice-선정-근거)
-   2-1. [최신 데이터를 유지하는 refetch 로직 구현](#2-1-최신-데이터를-유지하는-refetch-로직-구현)
-   2-2. [Custom Hook을 통한 관심사의 분리](#2-2-custom-hook을-통한-관심사의-분리)
-   2-3. [렌더링 최적화 적용](#2-3-렌더링-최적화-적용)
-   2-4. [관계성이 파악되는 컴포넌트 위치](#2-4-관계성이-파악되는-컴포넌트-위치)
-   <br />
+   - 2-1. [최신 데이터를 유지하는 refetch 로직 구현](#2-1-최신-데이터를-유지하는-refetch-로직-구현)
+   - 2-2. [Custom Hook을 통한 관심사의 분리](#2-2-custom-hook을-통한-관심사의-분리)
+   - 2-3. [렌더링 최적화 적용](#2-3-렌더링-최적화-적용)
+   - 2-4. [관계성이 파악되는 컴포넌트 위치](#2-4-관계성이-파악되는-컴포넌트-위치)
+     <br />
 
 ## 1. 프로젝트 소개
 
-![Selection Task Refactoring Banner](https://user-images.githubusercontent.com/85419343/235454153-e58b31c1-4c82-422a-af5d-668c1470672f.png)
+![Selection Task Refactoring Banner](https://user-images.githubusercontent.com/85419343/235464405-d7c423b1-1a2a-419a-b101-ff3758770718.png)
 
 ### 1-1. About this project
 
